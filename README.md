@@ -1,5 +1,10 @@
 # Hi, I'm Pedro 👋
 
+- 📊 I'm a **Data Analyst** at [**Farfetch**](https://www.farfetch.com/).
+- My daily time is spend in **SQL**, **BigQuery**, a liitle bit of **Python**, and some **dbt**.
+- I made the piscine for [42 School](https://www.42porto.com/), learning C languge.
+- Currently trying to specialize in SQL and learn more about **Data Engineering** and **ML**.
+
 <!--
 **pekas22/pekas22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
