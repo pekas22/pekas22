@@ -1,6 +1,6 @@
 # Hi, I'm Pedro 👋
 
-### I'm a 📊 **Data Analyst** at [**Farfetch**](https://www.farfetch.com/).
+### I'm a 📊 **Data Engineer** at [**Hakkoda.io IBM Company**].
 My daily time is spent in ***SQL***, ***BigQuery***, a little bit of ***Python***, and some ***dbt***. I love to learn, and I discover this new love for data, 4 years ago. I'm now trying to get more knowledge about ***Data Engineering*** and ***Cloud Services*** to prepare for the futur... sorry, the present. 
 
 
